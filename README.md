@@ -5,11 +5,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Focused right now on **AI & Intelligent Systems** — that's my main direction going forward.
+- 🔭 Focused right now on **AI & Intelligent Systems** - that's my main direction going forward.
 - 💻 Also building up my **full-stack JavaScript** skills.
 - ⚙️ Strong foundation in **C++ and OOP**, now branching into **Rust, Python, and JS**.
-- 🌱 Currently building tools that sit close to AI workflows — like a shell built for speed and a file-to-markdown converter made to cut LLM token costs.
-- ⚡ Fun fact: I like building things from scratch — shells, chatbots, games, and dev tools.
+- 🌱 Currently building tools that sit close to AI workflows - like a shell built for speed and a file-to-markdown converter made to cut LLM token costs.
+- ⚡ Fun fact: I like building things from scratch - shells, chatbots, games, and dev tools.
 
 ---
 
