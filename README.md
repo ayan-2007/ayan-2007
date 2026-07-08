@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI / Intelligent Systems Engineer • Full-Stack Developer in the making</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Learning+full-stack+JavaScript...;Turning+ideas+into+working+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Learning+Agentic AI+ Tools building ...;Turning+ideas+into+working+code." alt="Typing SVG" />
 </p>
 
 ---
