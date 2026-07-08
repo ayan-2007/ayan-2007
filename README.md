@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Ahmed Ayan 👋</h1>
 <h3 align="center">Aspiring AI / Intelligent Systems Engineer • Full-Stack Developer in the making</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Learning+Agentic AI+ Tools building ...;Turning+ideas+into+working+code." alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -54,18 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan-2007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🎯 Goals
 
