@@ -40,21 +40,10 @@
 |---|---|---|
 | 🎮 **[Metal-Slug](https://github.com/ayan-2007/Metal-Slug)** | OOP-based recreation of the classic Metal Slug game ⭐ 4 | C++ |
 | 🐚 **[AyanShell](https://github.com/ayan-2007/AyanShell)** | A cyberpunk-themed shell built from scratch, with Urdu command support | Rust |
-| 🐦 **[Flappy-bird-](https://github.com/ayan-2007/Flappy-bird-)** | Flappy Bird recreation | JavaScript |
-| 🤖 **[tcs-chatbot](https://github.com/ayan-2007/tcs-chatbot)** | A chatbot built for TCS Courier | HTML |
-| 📝 **[texteditor](https://github.com/ayan-2007/texteditor)** | A custom text editor built from scratch | C++ |
-| 📄 **[files-to-md](https://github.com/ayan-2007/files-to-md)** | Converts files to markdown to reduce LLM token consumption | Python |
-
 ---
 
 
-### 🎯 Goals
 
-- 🤖 Go deeper into AI / intelligent systems — that's the core focus from here.
-- 🌐 Get fully comfortable across the full-stack JavaScript ecosystem.
-- 🔗 Combine both — intelligent tooling wrapped in solid full-stack applications, in the spirit of AyanShell and files-to-md.
-
----
 
 ### 📫 Connect With Me
 
