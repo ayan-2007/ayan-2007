@@ -1,54 +1,83 @@
-<h1 align="center">Hey, I'm Ahmed Ayan 👋</h1>
-<h3 align="center">Aspiring AI / Intelligent Systems Engineer </h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ahmed%20Ayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%2F%20Intelligent%20Systems%20Engineer&descAlignY=58&descSize=18" />
+
+<a href="https://github.com/ayan-2007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+tools+close+to+AI+workflows;C%2B%2B+%2F+OOP+%E2%86%92+Rust+%2F+Python+%2F+JS;Currently+building%3A+a+speed-first+shell;...and+a+file-to-markdown+converter+for+LLMs" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
 ### 🧠 About Me
 
-- 🔭 Focused right now on **AI & Intelligent Systems** - that's my main direction going forward.
-- ⚙️ Strong foundation in **C++ and OOP**, now branching into **Rust, Python, and JS**.
-- 🌱 Currently building tools that sit close to AI workflows - like a shell built for speed and a file-to-markdown converter made to cut LLM token costs.
----
+- 🔭 Focused on **AI & Intelligent Systems** — that's the direction I'm building toward.
+- ⚙️ Strong foundation in **C++ & OOP**, now branching into **Rust, Python, and JS**.
+- 🌱 Currently shipping tools that sit close to AI workflows: a speed-first shell and a file-to-markdown converter built to cut LLM token costs.
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
 ### 🛠️ Tech Stack
 
-**Languages I've worked with**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,py,tensorflow,pytorch,js,react,nodejs,express,mongodb,git,github,vscode,linux&theme=dark" />
 </p>
 
-**AI / ML (learning & building toward)**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py" alt="AI/ML" />
-</p>
+<br/>
 
-**Web / Full-Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb" alt="Web/Full-Stack" />
-</p>
+<div align="center">
 
-**Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
-</p>
+### 📊 GitHub Stats
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayan-2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff00e5&currStreakLabel=00f5ff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ayan-2007/ayan-2007/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub>⚡ To activate this snake animation, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates the SVG above from your contribution graph.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎮 **[Metal-Slug](https://github.com/ayan-2007/Metal-Slug)** | OOP-based recreation of the classic Metal Slug game ⭐ 4 | C++ |
-| 🐚 **[AyanShell](https://github.com/ayan-2007/AyanShell)** | A cyberpunk-themed shell built from scratch, with Urdu command support | Rust |
----
+<div align="center">
 
+<a href="https://github.com/ayan-2007/Metal-Slug">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayan-2007&repo=Metal-Slug&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ayan-2007/AyanShell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayan-2007&repo=AyanShell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
+</a>
 
+</div>
 
+<br/>
 
-### 📫 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ayan-2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 📫 Connect
 
-<p align="center"><i>⭐ This profile is a work in progress — just like the AI systems I'm learning to build.</i></p>
+<a href="https://github.com/ayan-2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>⭐ This profile is a work in progress — just like the AI systems I'm learning to build.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
