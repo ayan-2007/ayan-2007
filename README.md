@@ -30,45 +30,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayan-2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff00e5&currStreakLabel=00f5ff" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ayan-2007/ayan-2007/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>⚡ To activate this snake animation, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates the SVG above from your contribution graph.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ayan-2007/Metal-Slug">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayan-2007&repo=Metal-Slug&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ayan-2007/AyanShell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayan-2007&repo=AyanShell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 📫 Connect
 
