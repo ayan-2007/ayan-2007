@@ -38,7 +38,7 @@
 
 <br/><br/>
 
-<i>⭐ This profile is a work in progress — just like the AI systems I'm learning to build.</i>
+<ii>
 
 </div>
 
