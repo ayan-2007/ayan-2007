@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ahmed%20Ayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%2F%20Intelligent%20Systems%20Engineer&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/ayan-2007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+tools+close+to+AI+workflows;C%2B%2B+%2F+OOP+%E2%86%92+Rust+%2F+Python+%2F+JS;Currently+building%3A+a+speed-first+shell;...and+a+file-to-markdown+converter+for+LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+tools+close+to+AI+workflows;C%2B%2B+%2F+OOP+%E2%86%92+Rust+%2F+Python+%2F+JS;Currently+building%3" />
 </a>
 
 </div>
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,py,tensorflow,pytorch,js,react,nodejs,express,mongodb,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,py,tensorflow,pytorch,js,react,nodejs,git,github,vscode,linux&theme=dark" />
 </p>
 
 <br/>
